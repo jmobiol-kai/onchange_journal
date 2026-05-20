@@ -1,5 +1,4 @@
 #### models/purchase_order.py
-python
 from odoo import api, fields, models
 
 
