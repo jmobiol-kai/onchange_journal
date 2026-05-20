@@ -1,5 +1,4 @@
 #### __manifest__.py
-python
 {
     'name': 'Purchase Journal Currency Auto',
     'version': '17.0.1.0.0',
