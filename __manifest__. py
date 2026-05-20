@@ -1,0 +1,13 @@
+#### __manifest__.py
+python
+{
+    'name': 'Purchase Journal Currency Auto',
+    'version': '17.0.1.0.0',
+    'category': 'Purchases',
+    'summary': 'Forzar moneda según el diario en órdenes de compra',
+    'depends': ['purchase'],
+    'author': 'Juan Manuel',
+    'data': [],
+    'installable': True,
+    'auto_install': False,
+}
